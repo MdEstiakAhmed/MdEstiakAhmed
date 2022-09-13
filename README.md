@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**MdEstiakAhmed/MdEstiakAhmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 &nbsp;Tech Stack
 
-Here are some ideas to get you started:
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="left">
+<a href="https://www.estiak.me"><img src="https://img.shields.io/badge/-estiak.me-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/mdestiakahmed"><img src="https://img.shields.io/badge/-mdestiakahmed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:estiak97@gmail.com"><img src="https://img.shields.io/badge/-estiak97@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/estiakahmed"><img src="https://img.shields.io/badge/-@estiakahmed-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/mdestiakahmed1997"><img src="https://img.shields.io/badge/-@mdestiakahmed1997-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+</p>
