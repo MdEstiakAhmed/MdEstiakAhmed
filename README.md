@@ -1,4 +1,5 @@
 ### Hi there 👋
+A tech enthusiast. Most of the time working with JavaScript and python related technologies like to react, node.js, express.js etc. And also interested in photography and traveling.
 
 ### 🛠 &nbsp;Tech Stack
 
