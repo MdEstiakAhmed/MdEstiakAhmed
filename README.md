@@ -1,7 +1,7 @@
 ### Hi there 👋
 A tech enthusiast. Most of the time working with JavaScript and python related technologies like to react, node.js, express.js etc. And also interested in photography and traveling.
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -15,7 +15,7 @@ A tech enthusiast. Most of the time working with JavaScript and python related t
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Connect with me
 
 <p align="left">
 <a href="https://www.estiak.me"><img src="https://img.shields.io/badge/-estiak.me-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
