@@ -1,5 +1,5 @@
 ### Hi there 👋
-A tech enthusiast. Most of the time working with JavaScript and python related technologies like to react, node.js, express.js etc. And also interested in photography and traveling.
+Frontend Engineer focused on scalable design systems and performance-driven interfaces. From custom component libraries to dashboard architectures, I focus on building user-first experiences with performance and maintainability in mind. Bring ideas to life through clean UI — using React, Next.js, Tailwind, and TypeScript. Also into APIs, Docker, database & just enough backend to power the frontend.
 
 ### 🛠 &nbsp;Tech stack
 
